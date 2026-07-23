@@ -96,16 +96,6 @@ This project helped strengthen practical knowledge of:
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add screenshots of your dashboards inside the **images/** folder and display them here.
-
-Example:
-
-![Customer Dashboard](images/customer_dashboard.png)
-
----
-
 ## 👨‍💻 Author
 
 **Prashant Kumar**
